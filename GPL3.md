@@ -1,3 +1,5 @@
+# Explication de la license GPL 3
+
 La GNU General Public License (GPL) version 3 est une licence open source développée par la Free Software Foundation (FSF). Elle est conçue pour garantir la liberté des utilisateurs de logiciels en les autorisant à utiliser, modifier et redistribuer le code source des logiciels sous licence GPL. Voici quelques points clés de la licence GPL version 3 :
 
 - Liberté d'utilisation : Les utilisateurs sont libres d'utiliser le logiciel à des fins quelconques sans restrictions.
@@ -14,6 +16,6 @@ La GNU General Public License (GPL) version 3 est une licence open source dével
 
 - Protection des utilisateurs : La licence GPL v3 inclut des dispositions visant à protéger les utilisateurs contre les tentatives visant à restreindre leurs libertés.
 
-Il est important de noter que la GPL version 3 est une licence juridique et que son texte intégral doit être examiné pour comprendre toutes les conditions et obligations. 
+Il est important de noter que la GPL version 3 est une licence juridique et que son texte intégral doit être examiné pour comprendre toutes les conditions et obligations.
 L'utilisation de logiciels sous licence GPL v3 implique l'acceptation de ses termes et conditions.
 Si vous envisagez d'utiliser un logiciel sous GPL v3 ou de publier un logiciel sous cette licence, il est recommandé de consulter le texte complet de la licence et, si nécessaire, de consulter un conseiller juridique.
