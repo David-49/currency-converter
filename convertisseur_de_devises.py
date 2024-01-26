@@ -28,7 +28,7 @@ def demander_utilisateur():
         if devise_depart.lower() == 'exit':
             break
 
-        devise_arrivee = input("Entrez la devise d'arrivée (USD, EUR, YEN, LIVRE, WON) : ")
+        devise_arrivee = input("Entrez la devise d'arrivée pour convertir (USD, EUR, YEN, LIVRE, WON) : ")
         montant = float(input("Entrez le montant à convertir : "))
 
         try:
